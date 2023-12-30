@@ -1,4 +1,5 @@
-./firebase.js
+# Ignore firebase.js
+firebase.js
 node_modules/
 .expo/
 dist/
